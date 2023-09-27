@@ -1,0 +1,7 @@
+{
+  "domains": 5, //大站域名数量
+  "indexs": 10000, //要求收录数
+  "chromePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", //chrome浏览器的exe文件地址
+  "device": "iPhone 13",
+  "api": ""
+}
